@@ -70,3 +70,5 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:woohaha/woohaha.github.io.git
+  type: git
+  repo: git@gitcafe.com:woohaha/woohaha.git
